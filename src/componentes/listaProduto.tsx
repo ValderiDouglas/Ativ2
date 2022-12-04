@@ -14,7 +14,7 @@ export default class ListaProduto extends Component<props> {
             <div className="collection">
                 <div className="row"><h5>Filtrar por:</h5>⠀
                 <a className="waves-effect #e1bee7 purple lighten-4 btn">mais consumidos</a>⠀
-                <a className="waves-effect #e1bee7 purple lighten-4 btn">mais consumidos em valor</a>
+                <a className="waves-effect #e1bee7 purple lighten-4 btn">mais consumidos por gênero</a>
                 </div>
                 <a className="collection-item">Produto 1</a>
                 <a className="collection-item">Produto 2</a>
